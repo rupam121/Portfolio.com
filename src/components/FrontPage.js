@@ -12,9 +12,9 @@ function FrontPage() {
         </div>
         <div className="intro">
           <h1>Hello, I'm Rupam Giri</h1>
-          <p>I'm a MERN Stack Enthusias with experience in 13 Month includes Internship.</p>
+          <p>I'm a MERN Stack Enthusiast with experience in 17 months, including an internship.</p>
           <p>📍 Krishnanpalya, Bangalore, Karnataka 560038</p>
-          <p>📞 +91 6370349476</p>
+          // <p>📞 +91 6370349476</p>
           <p>✉️ <a href="mailto:rupamgiri4321@gmail.com">rupamgiri16@gmail.com</a></p>
           <p>🔗
             <a href="https://www.linkedin.com/in/rupamgiri/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
